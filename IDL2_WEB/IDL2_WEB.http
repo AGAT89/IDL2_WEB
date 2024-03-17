@@ -1,0 +1,6 @@
+@IDL2_WEB_HostAddress = http://localhost:5282
+
+GET {{IDL2_WEB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
